@@ -1,0 +1,63 @@
+[
+    {
+        "name": "PCB Temperature Sensor",
+        "desc": "Designed a PCB for a temperature sensor using KiCad. The project involves creating a schematic, placing components, and routing traces.",
+        "image": "pcb1",
+        "category": "pcb",
+        "links": {
+            "view": "#",
+            "code": "#"
+        }
+    },
+    {
+        "name": "Mechanical CAD Gear Mechanism",
+        "desc": "Created a 3D model of a gear mechanism using SolidWorks. The project includes assembly design and motion simulation to demonstrate gear interactions.",
+        "image": "mechanicalcad1",
+        "category": "mechanicalcad",
+        "links": {
+            "view": "#",
+            "code": "#"
+        }
+    },
+    {
+        "name": "CCNA Network Configuration",
+        "desc": "Configured a small network with routers and switches using Cisco Packet Tracer. Implemented VLANs, routing protocols, and security measures.",
+        "image": "ccna1",
+        "category": "ccna",
+        "links": {
+            "view": "#",
+            "code": "#"
+        }
+    },
+    {
+        "name": "PCB LED Blinker",
+        "desc": "Designed a simple PCB for an LED blinker circuit using Eagle. The project involves basic component placement and routing for a functional LED blinker.",
+        "image": "pcb",
+        "category": "pcb",
+        "links": {
+            "view": "#",
+            "code": "#"
+        }
+    },
+    {
+        "name": "Mechanical CAD Bracket Design",
+        "desc": "Developed a 3D model of a mechanical bracket using AutoCAD. The project includes detailed dimensioning and annotations for manufacturing.",
+        "image": "mechanicalcad",
+        "category": "mechanicalcad",
+        "links": {
+            "view": "#",
+            "code": "#"
+        }
+    },
+    {
+        "name": "CCNA Routing and Switching Lab",
+        "desc": "Created a comprehensive CCNA lab with multiple routers and switches. Implemented static and dynamic routing protocols for hands-on practice.",
+        "image": "ccna_lab",
+        "category": "ccna",
+        "links": {
+            "view": "#",
+            "code": "#"
+        }
+    }
+
+]

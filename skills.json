@@ -1,0 +1,43 @@
+[
+    {
+        "name": "CCNA",
+        "icon": "https://img.icons8.com/color/48/000000/network.png"
+    },
+    {
+        "name": "PCB Designing",
+        "icon": "https://img.icons8.com/color/48/00000/circuit.png"
+    },
+    {
+        "name": "SolidWorks",
+        "icon": "https://img.icons8.com/color/48/00000/solidworks.png"
+    },
+    {
+        "name": "3D designing",
+        "icon": "https://img.icons8.com/fluency/48/000000/3d.png"
+    },
+    {
+        "name": "MATLAB",
+        "icon": "https://img.icons8.com/fluency/48/000000/matlab.png"
+    },
+    {
+        "name": "Networking",
+        "icon": "https://img.icons8.com/fluency/48/000000/n.png"
+    },
+    {
+        "name": "Adaptability",
+        "icon": "https://img.icons8.com/fluency/48/000000/a.png"
+    },
+    {
+        "name": "Leadership",
+        "icon": "https://img.icons8.com/color/48/000000/chakra-ui.png"
+    },
+    {
+        "name": "Critical Thinking",
+        "icon": "https://img.icons8.com/fluency/48/000000/c.png"
+    },
+    {
+        "name": "Xilinx Ise",
+        "icon": "https://img.icons8.com/fluency/48/000000/x.png"
+    }
+    
+]
